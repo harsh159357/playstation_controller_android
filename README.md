@@ -1,11 +1,11 @@
 # playstation_controller_android
 PlayStation Controller color customizer in Android
 
-* [App Demo in Action](https://youtu.be/s_dVIGh0MdI)
+# [App Demo in Action](https://youtu.be/s_dVIGh0MdI)
 
 
-### :heart: Found this project useful?
-If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+### :heart:   Found this project useful?
+If you found this project useful, then please consider giving it a :star:   on Github and sharing it with your friends via social media.
 
 ### Project Maintained By
 
